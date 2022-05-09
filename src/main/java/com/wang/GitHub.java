@@ -7,6 +7,6 @@ public class GitHub {
         System.out.println("git练习啊");
         System.out.println("git练习啊");
         System.out.println("git练习啊");
-        System.out.println("git练习啊");
+        System.out.println("git hot-fix");
     }
 }
