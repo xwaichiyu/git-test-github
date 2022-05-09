@@ -13,5 +13,6 @@ public class GitHub {
         System.out.println("push test");
         System.out.println("在github上修改了文件.");
         System.out.println("在gitee 上修改了文件.");
+        System.out.println("删错了  这是在GitHub上");
     }
 }
