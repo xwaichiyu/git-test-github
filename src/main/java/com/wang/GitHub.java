@@ -12,5 +12,6 @@ public class GitHub {
         System.out.println("git hot-fix test~~~~~~~");
         System.out.println("push test");
         System.out.println("在github上修改了文件.");
+        System.out.println("在gitee 上修改了文件.");
     }
 }
